@@ -16,14 +16,16 @@
 
 ### 💼 Experience Highlights
 
-- *Data Analyst – ITIDA & Gigs (2025 - Present):*  
-  ➤ Analyzed business datasets using Python, SQL, Power BI to generate actionable insights  
+- Data Analyst – ITIDA & Gigs (2025 - Present)  
+   
 
-- *ML Intern – NeuronetiX (Aug–Oct 2024):*  
-  ➤ Deployed CNN models for medical imaging with 94%+ accuracy, reducing diagnosis time by 30%  
+- ML Intern – NeuronetiX (Aug–Oct 2024)  
+  
 
-- *Data Intern – NTI & IDSC (2024):*  
-  ➤ Built Power BI dashboards and performed transaction analysis for 10K+ records
+- Data Analysis Intern – IDSC (2024)  
+
+
+- Data Analysis Intern – NTI (2024)
   
 ---
 
@@ -38,6 +40,22 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Microsoft Power Pivot](https://img.shields.io/badge/Power%20Pivot-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3F51B5?style=for-the-badge&logo=opencv&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ---
 
